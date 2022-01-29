@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @JornDM
-Student HoGent
-Noob in programming
+Student Applied Computer Science @HOGENT
+Currently becoming a System and Networks Administrator.
